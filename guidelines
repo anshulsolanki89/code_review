@@ -1,0 +1,7 @@
+Use nested functions when
+  some code is use in certain condition
+  function returning fuctions
+Use enum for data modeliing 
+  sum vs product
+  polymorphism bvs subclassing
+  
